@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "M": "minecraft:rotten_flesh",
+    "B": "minecraft:blaze_rod",
     "E": "minecraft:egg",
     "S": "minecraft:fermented_spider_eye",
     "G": "minecraft:golden_sword"
   },
   "pattern": [
-    " M ",
+    " B ",
     " G ",
     "ESE"
   ],
@@ -16,9 +16,9 @@
     "id": "minecraft:golden_sword",
     "count": 1,
     "components": {
-      "minecraft:item_name": { "text": "Pink Weapon", "color": "#CC55AA", "italic": false },
+      "minecraft:item_name": { "text": "Pink Hero Weapon", "color": "#CC55AA", "italic": false },
       "minecraft:lore": [
-        { "text": "Classic weapon for the brave", "color": "#AA1177", "italic": false }
+        { "text": "Classic weapon for the brave hero", "color": "#AA1177", "italic": false }
       ],
       "minecraft:item_model": "theheroweapons:pinkweapon",
       "minecraft:max_damage": 25,
